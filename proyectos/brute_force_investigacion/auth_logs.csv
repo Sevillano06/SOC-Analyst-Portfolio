@@ -1,0 +1,8 @@
+Fecha,Usuario,IP,Estado
+2026-07-14 09:00,admin,185.44.10.22,Failed
+2026-07-14 09:01,admin,185.44.10.22,Failed
+2026-07-14 09:02,admin,185.44.10.22,Failed
+2026-07-14 09:03,admin,185.44.10.22,Failed
+2026-07-14 09:04,admin,185.44.10.22,Success
+2026-07-14 09:10,maria,192.168.1.15,Success
+2026-07-14 09:12,carlos,192.168.1.20,Success
