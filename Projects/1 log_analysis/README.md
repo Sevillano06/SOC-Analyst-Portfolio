@@ -1,5 +1,8 @@
 # Resultados del Análisis de Logs - Laboratorio 01
 
+## Objetivo 
+Automatizar la ingesta  y el analisis de registros de seguridad  utilizando Python, y diseñar la estructura relacional en SQL para escalar la deteccion de comportamiento anomalos.
+
 ## Resumen del Análisis (Python)
 Tras procesar el archivo `auth_logs.csv` con nuestro script `log_analyzer.py`, se obtuvieron las siguientes métricas clave de actividad:
 
@@ -18,3 +21,8 @@ Tras procesar el archivo `auth_logs.csv` con nuestro script `log_analyzer.py`, s
 Para llevar este análisis a gran escala, se diseñó la estructura de la base de datos y las consultas necesarias en `consultas.sql` para responder a preguntas de investigación comunes en un SOC, tales como:
 - Identificación de IPs con comportamiento anómalo.
 - Conteo de fallas de autenticación por usuario para detectar ataques de fuerza bruta.
+
+
+## Conclusiones y Mitigacion
+ - Se comprobo la viabilidad de usar scripts de Python para el triaje inicial de logs.
+ - Se identifico un posible intento de fuerza bruta menor  que requiere agregar la IP 192.168.1.20 a una lista de monitoreo preventivo.

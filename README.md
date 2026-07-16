@@ -15,6 +15,32 @@ Soy un profesional en formación continua enfocado en la seguridad defensiva, op
 
 ---
 
+## 📊 Estado de Certificación: Cisco Cybersecurity Defense Analyst
+
+Actualmente me encuentro cursando y documentando esta ruta de aprendizaje. Mi progreso es el siguiente:
+
+✅ The Cybersecurity Landscape
+✅ Understanding Threats and Attacks
+✅ Security Operations and the Defense Analyst
+🟡 Data and Tools for Defense Analysts *(En progreso)*
+⬜ The Art of Investigation
+⬜ SOC Essentials: Investigating with Splunk
+⬜ SOC Essentials: Introduction to Threat Hunting
+⬜ Examen Final
+
+---
+
+## 💻 Tecnologías y Conceptos Aprendidos
+
+- Python & SQL
+- Git & GitHub
+- Splunk (Introducción) & SIEM
+- MITRE ATT&CK Framework
+- Operaciones SOC
+- Análisis de Logs (Windows & Network)
+
+---
+
 ## 🗂️ Estructura del Portafolio
 
 Este repositorio se divide en módulos secuenciales que reflejan mi proceso de aprendizaje y habilidades prácticas:
@@ -26,6 +52,7 @@ Este repositorio se divide en módulos secuenciales que reflejan mi proceso de a
 * [📁 04-Splunk-Labs](./04-Splunk-Labs/) — Laboratorios prácticos, consultas SPL (Splunk Processing Language) y creación de Dashboards. *(Planificado)*
 * [📁 05-Incident-Reports](./05-Incident-Reports/) — Documentación y reportes de incidentes simulados basados en casos reales. *(Planificado)*
 * [📁 06-Threat-Hunting](./06-Threat-Hunting/) — Búsquedas proactivas de amenazas evadiendo reglas de detección tradicionales. *(Planificado)*
+* [📁 Learning-Journal](./Learning-Journal/) — Registro semanal de aprendizaje, reflexiones y objetivos a corto plazo. *(Nuevo)*
 
 ---
 
@@ -43,4 +70,4 @@ Este repositorio se divide en módulos secuenciales que reflejan mi proceso de a
 * **Email:**  sevillano0603@gmail.com
 
 ---
-*Última actualización: Junio 2026*
+*Última actualización: Julio 2026*
