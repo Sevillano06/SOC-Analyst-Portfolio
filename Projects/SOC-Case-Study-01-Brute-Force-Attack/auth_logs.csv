@@ -1,0 +1,11 @@
+Timestamp,SourceIP,DestinationIP,Username,Action,Status,EventID
+2026-07-17 08:55:12,192.168.1.15,10.0.0.5,jsmith,Login,Success,4624
+2026-07-17 09:00:01,203.0.113.45,10.0.0.5,admin,Login,Failed,4625
+2026-07-17 09:00:15,203.0.113.45,10.0.0.5,admin,Login,Failed,4625
+2026-07-17 09:00:33,203.0.113.45,10.0.0.5,admin,Login,Failed,4625
+2026-07-17 09:01:05,203.0.113.45,10.0.0.5,admin,Login,Failed,4625
+2026-07-17 09:01:42,203.0.113.45,10.0.0.5,admin,Login,Failed,4625
+2026-07-17 09:02:10,192.168.1.22,10.0.0.5,mgarcia,Login,Success,4624
+2026-07-17 09:03:15,203.0.113.45,10.0.0.5,admin,Login,Failed,4625
+2026-07-17 09:04:22,203.0.113.45,10.0.0.5,admin,Login,Success,4624
+2026-07-17 09:05:01,203.0.113.45,10.0.0.5,admin,Privilege Escalation,Attempt,4673
